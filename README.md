@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/ricoyeh/1cec2fa5-0c9a-47ad-bec2-bdbec0931f67/e5f9a95d-7839-4e87-b9d8-f81feaabe88d/_apis/work/boardbadge/1e019d3b-7b9d-4be7-844c-c90257a4e5b5)](https://dev.azure.com/ricoyeh/1cec2fa5-0c9a-47ad-bec2-bdbec0931f67/_boards/board/t/e5f9a95d-7839-4e87-b9d8-f81feaabe88d/Microsoft.RequirementCategory)
 # Angular on Netlify Quick Start Template    
 ![netlify + angular logo](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1646339469/angular_wzrs5o.png)
 
